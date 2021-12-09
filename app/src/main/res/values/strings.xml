@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">examApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="developers">developers:</string>
+    <string name="advice">advice</string>
+    <string name="about">about</string>
+    <string name="just_see_our_web_site">Just see our WEB site</string>
+</resources>
